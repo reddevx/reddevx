@@ -31,7 +31,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40px" height="40px" />                    
 </div>    
-
+<br>
 <div>
 <div style="center" >
 <a href="https://github.com/reddevx">
