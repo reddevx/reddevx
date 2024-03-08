@@ -19,21 +19,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg" width="40px" height="40px" />
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40px" height="40px" />
 </div>
-<br>
 
 ### Banco de Dados
 <div style="center" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40px" height="40px" />
 </div>          
-    <br>      
 
 ### Sistema Operacional
 <div style="center" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="40px" height="40px" />                    
 </div>    
-<br>
+
 <div>
 <div style="center" >
 <a href="https://github.com/reddevx">
