@@ -3,6 +3,12 @@
 ## Desenvolvedor Fullstack
 <br>
 
+## Habilidades
+
+- Desenvolvimento Web com HTML, CSS e JavaScript
+- Desenvolvimento Backend com Ruby e PHP
+- Bancos de Dados SQL e NoSQL
+
 ## Tecnologias
 
 ### Frontend
