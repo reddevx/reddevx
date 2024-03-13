@@ -1,6 +1,5 @@
 ![Juan Coutinho](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Juan++Coutinho+Dos+Santos+;I'm+17+years+old;I+from+Brasil,;Be+Welcome!+😉)
 
-## Desenvolvedor Fullstack
 <br>
 
 ## Habilidades
@@ -50,6 +49,5 @@
 
 ## Contato
 
-- Discord: [Discord de Juan Coutinho](https://discord.gg/bhfyHvA4ms)
 - E-mail: desenvolvedor.juan.business@gmail.com
 - LinkedIn: [Juan Coutinho](https://www.linkedin.com/in/juancoutinho/)
