@@ -51,5 +51,5 @@
 ## Contato
 
 - Discord: [Discord de Juan Coutinho](https://discord.gg/bhfyHvA4ms)
-- E-mail: devcoutinhored@gmail.com
+- E-mail: desenvolvedor.juan.business@gmail.com
 - LinkedIn: [Juan Coutinho](https://www.linkedin.com/in/juancoutinho/)
