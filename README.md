@@ -1,4 +1,4 @@
-![Juan Coutinho](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Juan++Coutinho+Dos+Santos+;I'm+17+years+old;I+from+Brasil,;Be+Welcome!+😉)
+![Juan Coutinho](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Juan++Coutinho+Dos+Santos+;I'm+17+years+old;I+from+Brasil,;Be+Welcome!+🌹)
 
 <br>
 
