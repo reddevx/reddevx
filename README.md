@@ -2,7 +2,7 @@
 
 <br>
 
-## Habilidades
+## Habilidadesa
 
 - Desenvolvimento Web com HTML, CSS e JavaScript
 - Desenvolvimento Backend com Ruby e PHP
