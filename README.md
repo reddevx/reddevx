@@ -4,9 +4,10 @@
 
 ## Habilidades
 
-- Desenvolvimento Web com HTML, CSS e JavaScript
-- Desenvolvimento Backend com Ruby e PHP
-- Bancos de Dados SQL e NoSQL
+- Desenvolvimento Web: HTML, CSS e JavaScript
+- Frameworks: Ruby on Rails e Tailwind
+- Desenvolvimento Backend: Ruby e PHP
+- Bancos de Dados: MySQL e PostgreSQL
 
 ## Tecnologias
 
