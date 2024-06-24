@@ -3,9 +3,6 @@
   <a href="https://github.com/reddevx?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/reddevx?style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/reddevx">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/reddevx?style=for-the-badge" />
-  </a>
   <a href="mailto:juan.devx@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
