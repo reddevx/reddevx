@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# 👋 Olá, eu sou Juan
 
 <p align="center">
   <img src="https://via.placeholder.com/150" alt="Foto de Perfil" style="border-radius: 50%;" />
