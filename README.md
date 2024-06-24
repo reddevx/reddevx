@@ -1,3 +1,4 @@
+![Juan Coutinho](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Juan++Coutinho+Dos+Santos+;I'm+17+years+old;I+from+Brasil,;Be+Welcome!+😉)
 
 <p align="center">
   <a href="https://github.com/reddevx?tab=followers">
