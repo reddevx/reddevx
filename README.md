@@ -42,58 +42,6 @@ Olá! Sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e inovação. T
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
 </p>
-## 📌 Projetos em Destaque
-
-![Projetos em Destaque](https://img.icons8.com/clouds/100/000000/code.png)
-
-### 🚀 [Nome do Projeto 1](https://github.com/seu-usuario/projeto-1)
-
-![Imagem do Projeto 1](https://via.placeholder.com/300x150)
-
-**Descrição:** Uma breve descrição do projeto 1. Este projeto utiliza tecnologias como React e Node.js.
-
-**Destaques:**
-- Funcionalidade incrível 1
-- Funcionalidade incrível 2
-- Design responsivo
-
-**Tecnologias:** React, Node.js
-
-[Veja mais](https://github.com/seu-usuario/projeto-1)
-
----
-
-### ✨ [Nome do Projeto 2](https://github.com/seu-usuario/projeto-2)
-
-![Imagem do Projeto 2](https://via.placeholder.com/300x150)
-
-**Descrição:** Uma breve descrição do projeto 2. Este projeto é uma aplicação web desenvolvida com Django.
-
-**Destaques:**
-- Funcionalidade incrível 1
-- Funcionalidade incrível 2
-- Design responsivo
-
-**Tecnologias:** Django, PostgreSQL
-
-[Veja mais](https://github.com/seu-usuario/projeto-2)
-
----
-
-### ⚙️ [Nome do Projeto 3](https://github.com/seu-usuario/projeto-3)
-
-![Imagem do Projeto 3](https://via.placeholder.com/300x150)
-
-**Descrição:** Uma breve descrição do projeto 3. Este projeto é uma ferramenta de automação usando Python.
-
-**Destaques:**
-- Funcionalidade incrível 1
-- Funcionalidade incrível 2
-- Design responsivo
-
-**Tecnologias:** Python, Selenium
-
-[Veja mais](https://github.com/seu-usuario/projeto-3)
 
 ## ⭐ Testemunhos
 
