@@ -1,10 +1,6 @@
 # 👋 Olá, eu sou Juan
 
 <p align="center">
-  <img src="https://via.placeholder.com/150" alt="Foto de Perfil" style="border-radius: 50%;" />
-</p>
-
-<p align="center">
   <a href="https://github.com/seu-usuario?tab=followers">
     <img alt="Followers" src="https://img.shields.io/github/followers/seu-usuario?style=for-the-badge" />
   </a>
