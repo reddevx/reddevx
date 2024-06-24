@@ -47,23 +47,52 @@ Olá! Sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e inovação. T
 
 ## 📌 Projetos em Destaque
 
-### [Projeto 1](https://github.com/seu-usuario/projeto-1)
-<p>
-  <img src="https://via.placeholder.com/250" alt="Imagem do Projeto 1" align="right" />
-  Uma breve descrição do projeto 1. Este projeto usa tecnologias como React e Node.js. [Veja mais](https://github.com/seu-usuario/projeto-1)
+<p align="center">
+  <img src="https://img.icons8.com/clouds/100/000000/code.png"/>
 </p>
 
-### [Projeto 2](https://github.com/seu-usuario/projeto-2)
+### [🚀 Projeto 1: Nome do Projeto](https://github.com/seu-usuario/projeto-1)
 <p>
-  <img src="https://via.placeholder.com/250" alt="Imagem do Projeto 2" align="right" />
-  Uma breve descrição do projeto 2. Este projeto é uma aplicação web desenvolvida com Django. [Veja mais](https://github.com/seu-usuario/projeto-2)
+  <img src="https://via.placeholder.com/250" alt="Imagem do Projeto 1" align="right" style="border-radius: 8px; margin: 10px;" />
+  **Descrição:** Uma breve descrição do projeto 1. Este projeto usa tecnologias como React e Node.js.  
+  **Destaques:**
+  - Funcionalidade incrível 1
+  - Funcionalidade incrível 2
+  - Design responsivo
+  
+  **Tecnologias:** React, Node.js  
+  **Link:** [Veja mais](https://github.com/seu-usuario/projeto-1)
 </p>
+<br/>
 
-### [Projeto 3](https://github.com/seu-usuario/projeto-3)
+### [✨ Projeto 2: Nome do Projeto](https://github.com/seu-usuario/projeto-2)
 <p>
-  <img src="https://via.placeholder.com/250" alt="Imagem do Projeto 3" align="right" />
-  Uma breve descrição do projeto 3. Este projeto é uma ferramenta de automação usando Python. [Veja mais](https://github.com/seu-usuario/projeto-3)
+  <img src="https://via.placeholder.com/250" alt="Imagem do Projeto 2" align="right" style="border-radius: 8px; margin: 10px;" />
+  **Descrição:** Uma breve descrição do projeto 2. Este projeto é uma aplicação web desenvolvida com Django.  
+  **Destaques:**
+  - Funcionalidade incrível 1
+  - Funcionalidade incrível 2
+  - Design responsivo
+  
+  **Tecnologias:** Django, PostgreSQL  
+  **Link:** [Veja mais](https://github.com/seu-usuario/projeto-2)
 </p>
+<br/>
+
+### [⚙️ Projeto 3: Nome do Projeto](https://github.com/seu-usuario/projeto-3)
+<p>
+  <img src="https://via.placeholder.com/250" alt="Imagem do Projeto 3" align="right" style="border-radius: 8px; margin: 10px;" />
+  **Descrição:** Uma breve descrição do projeto 3. Este projeto é uma ferramenta de automação usando Python.  
+  **Destaques:**
+  - Funcionalidade incrível 1
+  - Funcionalidade incrível 2
+  - Design responsivo
+  
+  **Tecnologias:** Python, Selenium  
+  **Link:** [Veja mais](https://github.com/seu-usuario/projeto-3)
+</p>
+<br/>
+
 
 ---
 
