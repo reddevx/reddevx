@@ -1,15 +1,15 @@
-# 👋 Olá, eu sou [Seu Nome]!
+# <center> 👋 Olá, me chamo Juan! </center>
 
 <p align="center">
   <img src="https://via.placeholder.com/150" alt="Foto de Perfil" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/seu-usuario?style=for-the-badge" />
+  <a href="https://github.com/reddevx?tab=followers">
+    <img alt="Followers" src="https://img.shields.io/github/followers/reddevx?style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/seu-usuario">
-    <img alt="Twitter" src="https://img.shields.io/twitter/follow/seu-usuario?style=for-the-badge" />
+  <a href="https://twitter.com/reddevx">
+    <img alt="Twitter" src="https://img.shields.io/twitter/follow/reddevx?style=for-the-badge" />
   </a>
 </p>
 
