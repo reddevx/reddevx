@@ -43,57 +43,55 @@ Olá! Sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e inovação. T
   <img src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
 </p>
 
----
-📌 Projetos em Destaque
+---📌 Projetos em Destaque
 <p align="center">
   <img src="https://img.icons8.com/clouds/100/000000/code.png" alt="Projetos em Destaque"/>
 </p>
-🚀 Projeto 1: Nome do Projeto
-<div style="display: flex; align-items: center; margin-bottom: 30px; padding: 20px; border: 2px solid #ddd; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
-  <img src="https://via.placeholder.com/250" alt="Imagem do Projeto 1" style="border-radius: 12px; margin-right: 20px;" width="250"/>
-  <div>
-    <h3 style="font-size: 20px; color: #333; margin-bottom: 10px;">Nome do Projeto</h3>
-    <p style="font-size: 16px; color: #666; margin-bottom: 10px;"><strong>Descrição:</strong> Uma breve descrição do projeto 1. Este projeto usa tecnologias como React e Node.js.</p>
-    <p style="font-size: 16px; color: #666; margin-bottom: 10px;"><strong>Destaques:</strong></p>
-    <ul style="font-size: 16px; color: #666; margin-bottom: 10px; list-style-type: disc; padding-left: 20px;">
-      <li>Funcionalidade incrível 1</li>
-      <li>Funcionalidade incrível 2</li>
-      <li>Design responsivo</li>
-    </ul>
-    <p style="font-size: 16px; color: #666; margin-bottom: 10px;"><strong>Tecnologias:</strong> React, Node.js</p>
-    <p style="font-size: 16px; color: #007BFF;"><strong>Link:</strong> <a href="https://github.com/seu-usuario/projeto-1" style="color: #007BFF;">Veja mais</a></p>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div style="width: 300px; border: 2px solid #ddd; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); overflow: hidden;">
+    <img src="https://via.placeholder.com/300x150" alt="Imagem do Projeto 1" style="width: 100%;"/>
+    <div style="padding: 15px;">
+      <h3 style="font-size: 18px; color: #333; margin-bottom: 10px;">🚀 <a href="https://github.com/seu-usuario/projeto-1" style="color: #007BFF; text-decoration: none;">Nome do Projeto</a></h3>
+      <p style="font-size: 14px; color: #666; margin-bottom: 10px;"><strong>Descrição:</strong> Uma breve descrição do projeto 1. Este projeto usa tecnologias como React e Node.js.</p>
+      <p style="font-size: 14px; color: #666; margin-bottom: 10px;"><strong>Destaques:</strong></p>
+      <ul style="font-size: 14px; color: #666; margin-bottom: 10px; list-style-type: disc; padding-left: 20px;">
+        <li>Funcionalidade incrível 1</li>
+        <li>Funcionalidade incrível 2</li>
+        <li>Design responsivo</li>
+      </ul>
+      <p style="font-size: 14px; color: #666; margin-bottom: 10px;"><strong>Tecnologias:</strong> React, Node.js</p>
+      <p style="font-size: 14px; color: #007BFF;"><a href="https://github.com/seu-usuario/projeto-1" style="color: #007BFF;">Veja mais</a></p>
+    </div>
   </div>
-</div>
-✨ Projeto 2: Nome do Projeto
-<div style="display: flex; align-items: center; margin-bottom: 30px; padding: 20px; border: 2px solid #ddd; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
-  <img src="https://via.placeholder.com/250" alt="Imagem do Projeto 2" style="border-radius: 12px; margin-right: 20px;" width="250"/>
-  <div>
-    <h3 style="font-size: 20px; color: #333; margin-bottom: 10px;">Nome do Projeto</h3>
-    <p style="font-size: 16px; color: #666; margin-bottom: 10px;"><strong>Descrição:</strong> Uma breve descrição do projeto 2. Este projeto é uma aplicação web desenvolvida com Django.</p>
-    <p style="font-size: 16px; color: #666; margin-bottom: 10px;"><strong>Destaques:</strong></p>
-    <ul style="font-size: 16px; color: #666; margin-bottom: 10px; list-style-type: disc; padding-left: 20px;">
-      <li>Funcionalidade incrível 1</li>
-      <li>Funcionalidade incrível 2</li>
-      <li>Design responsivo</li>
-    </ul>
-    <p style="font-size: 16px; color: #666; margin-bottom: 10px;"><strong>Tecnologias:</strong> Django, PostgreSQL</p>
-    <p style="font-size: 16px; color: #007BFF;"><strong>Link:</strong> <a href="https://github.com/seu-usuario/projeto-2" style="color: #007BFF;">Veja mais</a></p>
+  <div style="width: 300px; border: 2px solid #ddd; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); overflow: hidden;">
+    <img src="https://via.placeholder.com/300x150" alt="Imagem do Projeto 2" style="width: 100%;"/>
+    <div style="padding: 15px;">
+      <h3 style="font-size: 18px; color: #333; margin-bottom: 10px;">✨ <a href="https://github.com/seu-usuario/projeto-2" style="color: #007BFF; text-decoration: none;">Nome do Projeto</a></h3>
+      <p style="font-size: 14px; color: #666; margin-bottom: 10px;"><strong>Descrição:</strong> Uma breve descrição do projeto 2. Este projeto é uma aplicação web desenvolvida com Django.</p>
+      <p style="font-size: 14px; color: #666; margin-bottom: 10px;"><strong>Destaques:</strong></p>
+      <ul style="font-size: 14px; color: #666; margin-bottom: 10px; list-style-type: disc; padding-left: 20px;">
+        <li>Funcionalidade incrível 1</li>
+        <li>Funcionalidade incrível 2</li>
+        <li>Design responsivo</li>
+      </ul>
+      <p style="font-size: 14px; color: #666; margin-bottom: 10px;"><strong>Tecnologias:</strong> Django, PostgreSQL</p>
+      <p style="font-size: 14px; color: #007BFF;"><a href="https://github.com/seu-usuario/projeto-2" style="color: #007BFF;">Veja mais</a></p>
+    </div>
   </div>
-</div>
-⚙️ Projeto 3: Nome do Projeto
-<div style="display: flex; align-items: center; margin-bottom: 30px; padding: 20px; border: 2px solid #ddd; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);">
-  <img src="https://via.placeholder.com/250" alt="Imagem do Projeto 3" style="border-radius: 12px; margin-right: 20px;" width="250"/>
-  <div>
-    <h3 style="font-size: 20px; color: #333; margin-bottom: 10px;">Nome do Projeto</h3>
-    <p style="font-size: 16px; color: #666; margin-bottom: 10px;"><strong>Descrição:</strong> Uma breve descrição do projeto 3. Este projeto é uma ferramenta de automação usando Python.</p>
-    <p style="font-size: 16px; color: #666; margin-bottom: 10px;"><strong>Destaques:</strong></p>
-    <ul style="font-size: 16px; color: #666; margin-bottom: 10px; list-style-type: disc; padding-left: 20px;">
-      <li>Funcionalidade incrível 1</li>
-      <li>Funcionalidade incrível 2</li>
-      <li>Design responsivo</li>
-    </ul>
-    <p style="font-size: 16px; color: #666; margin-bottom: 10px;"><strong>Tecnologias:</strong> Python, Selenium</p>
-    <p style="font-size: 16px; color: #007BFF;"><strong>Link:</strong> <a href="https://github.com/seu-usuario/projeto-3" style="color: #007BFF;">Veja mais</a></p>
+  <div style="width: 300px; border: 2px solid #ddd; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); overflow: hidden;">
+    <img src="https://via.placeholder.com/300x150" alt="Imagem do Projeto 3" style="width: 100%;"/>
+    <div style="padding: 15px;">
+      <h3 style="font-size: 18px; color: #333; margin-bottom: 10px;">⚙️ <a href="https://github.com/seu-usuario/projeto-3" style="color: #007BFF; text-decoration: none;">Nome do Projeto</a></h3>
+      <p style="font-size: 14px; color: #666; margin-bottom: 10px;"><strong>Descrição:</strong> Uma breve descrição do projeto 3. Este projeto é uma ferramenta de automação usando Python.</p>
+      <p style="font-size: 14px; color: #666; margin-bottom: 10px;"><strong>Destaques:</strong></p>
+      <ul style="font-size: 14px; color: #666; margin-bottom: 10px; list-style-type: disc; padding-left: 20px;">
+        <li>Funcionalidade incrível 1</li>
+        <li>Funcionalidade incrível 2</li>
+        <li>Design responsivo</li>
+      </ul>
+      <p style="font-size: 14px; color: #666; margin-bottom: 10px;"><strong>Tecnologias:</strong> Python, Selenium</p>
+      <p style="font-size: 14px; color: #007BFF;"><a href="https://github.com/seu-usuario/projeto-3" style="color: #007BFF;">Veja mais</a></p>
+    </div>
   </div>
 </div>
 
