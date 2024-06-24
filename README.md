@@ -46,58 +46,57 @@ Olá! Sou [Seu Nome], um desenvolvedor apaixonado por tecnologia e inovação. T
 ---
 ## 📌 Projetos em Destaque
 
----
-
-### [🚀 Projeto 1: Nome do Projeto](https://github.com/seu-usuario/projeto-1)
 <p align="center">
-  <img src="https://via.placeholder.com/500x300" alt="Imagem do Projeto 1" style="border-radius: 8px; margin: 10px;" />
-</p>
-<p>
-  **Descrição:** Uma breve descrição do projeto 1. Este projeto usa tecnologias como React e Node.js.  
-  **Destaques:**
-  - 🔹 Funcionalidade incrível 1
-  - 🔹 Funcionalidade incrível 2
-  - 🔹 Design responsivo
-  
-  **Tecnologias:** React, Node.js  
-  **Link:** [Veja mais](https://github.com/seu-usuario/projeto-1)
+  <img src="https://img.icons8.com/clouds/100/000000/code.png" alt="Projetos em Destaque"/>
 </p>
 
----
+### 🚀 [Projeto 1: Nome do Projeto](https://github.com/seu-usuario/projeto-1)
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="https://via.placeholder.com/250" alt="Imagem do Projeto 1" style="border-radius: 8px; margin-right: 20px;" width="250"/>
+  <div>
+    <p><strong>Descrição:</strong> Uma breve descrição do projeto 1. Este projeto usa tecnologias como React e Node.js.</p>
+    <p><strong>Destaques:</strong></p>
+    <ul>
+      <li>Funcionalidade incrível 1</li>
+      <li>Funcionalidade incrível 2</li>
+      <li>Design responsivo</li>
+    </ul>
+    <p><strong>Tecnologias:</strong> React, Node.js</p>
+    <p><strong>Link:</strong> <a href="https://github.com/seu-usuario/projeto-1">Veja mais</a></p>
+  </div>
+</div>
 
-### [✨ Projeto 2: Nome do Projeto](https://github.com/seu-usuario/projeto-2)
-<p align="center">
-  <img src="https://via.placeholder.com/500x300" alt="Imagem do Projeto 2" style="border-radius: 8px; margin: 10px;" />
-</p>
-<p>
-  **Descrição:** Uma breve descrição do projeto 2. Este projeto é uma aplicação web desenvolvida com Django.  
-  **Destaques:**
-  - 🔹 Funcionalidade incrível 1
-  - 🔹 Funcionalidade incrível 2
-  - 🔹 Design responsivo
-  
-  **Tecnologias:** Django, PostgreSQL  
-  **Link:** [Veja mais](https://github.com/seu-usuario/projeto-2)
-</p>
+### ✨ [Projeto 2: Nome do Projeto](https://github.com/seu-usuario/projeto-2)
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="https://via.placeholder.com/250" alt="Imagem do Projeto 2" style="border-radius: 8px; margin-right: 20px;" width="250"/>
+  <div>
+    <p><strong>Descrição:</strong> Uma breve descrição do projeto 2. Este projeto é uma aplicação web desenvolvida com Django.</p>
+    <p><strong>Destaques:</strong></p>
+    <ul>
+      <li>Funcionalidade incrível 1</li>
+      <li>Funcionalidade incrível 2</li>
+      <li>Design responsivo</li>
+    </ul>
+    <p><strong>Tecnologias:</strong> Django, PostgreSQL</p>
+    <p><strong>Link:</strong> <a href="https://github.com/seu-usuario/projeto-2">Veja mais</a></p>
+  </div>
+</div>
 
----
-
-### [⚙️ Projeto 3: Nome do Projeto](https://github.com/seu-usuario/projeto-3)
-<p align="center">
-  <img src="https://via.placeholder.com/500x300" alt="Imagem do Projeto 3" style="border-radius: 8px; margin: 10px;" />
-</p>
-<p>
-  **Descrição:** Uma breve descrição do projeto 3. Este projeto é uma ferramenta de automação usando Python.  
-  **Destaques:**
-  - 🔹 Funcionalidade incrível 1
-  - 🔹 Funcionalidade incrível 2
-  - 🔹 Design responsivo
-  
-  **Tecnologias:** Python, Selenium  
-  **Link:** [Veja mais](https://github.com/seu-usuario/projeto-3)
-</p>
-
----
+### ⚙️ [Projeto 3: Nome do Projeto](https://github.com/seu-usuario/projeto-3)
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="https://via.placeholder.com/250" alt="Imagem do Projeto 3" style="border-radius: 8px; margin-right: 20px;" width="250"/>
+  <div>
+    <p><strong>Descrição:</strong> Uma breve descrição do projeto 3. Este projeto é uma ferramenta de automação usando Python.</p>
+    <p><strong>Destaques:</strong></p>
+    <ul>
+      <li>Funcionalidade incrível 1</li>
+      <li>Funcionalidade incrível 2</li>
+      <li>Design responsivo</li>
+    </ul>
+    <p><strong>Tecnologias:</strong> Python, Selenium</p>
+    <p><strong>Link:</strong> <a href="https://github.com/seu-usuario/projeto-3">Veja mais</a></p>
+  </div>
+</div>
 
 
 
