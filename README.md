@@ -52,13 +52,10 @@ Olá! me chamo Juan, sou Desenvolvedor Fullstack. Tenho experiência em desenvol
 ## 📫 Como Me Encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/seu-usuario">
+  <a href="https://www.linkedin.com/in/juan-coutinho">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/seu-usuario">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:seu-email@dominio.com">
+  <a href="mailto:juan.devx@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -66,7 +63,7 @@ Olá! me chamo Juan, sou Desenvolvedor Fullstack. Tenho experiência em desenvol
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seu-usuario&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=reddevx&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
