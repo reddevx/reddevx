@@ -52,7 +52,7 @@ Olá! me chamo Juan, sou Desenvolvedor Fullstack. Tenho experiência em desenvol
 ## 📫 Como Me Encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/juan-coutinho">
+  <a href="https://www.linkedin.com/in/juancoutinho">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:juan.devx@gmail.com">
