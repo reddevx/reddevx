@@ -43,7 +43,7 @@ Olá! me chamo Juan, sou Desenvolvedor Fullstack. Tenho experiência em desenvol
 
 ## ⭐ Testemunhos
 
-> "Trabalhar com [Seu Nome] foi uma experiência incrível. Sua habilidade técnica e atenção aos detalhes são inigualáveis." - [Nome do Colega](https://www.linkedin.com/in/colega)
+> "Juan sempre se mostrou um profissional qualificado e dedicado na área de desenvolvimento de sistemas, demonstrando capacidade técnica em seus projetos e atividades. Em trabalhos que fiz junto com Juan sempre mostrou dedicação e comprometimento. Recomendo ele por ser um profissional muito eficaz e produtivo!" - [Lucas Batista](https://www.linkedin.com/in/lucas-batista-004212263/)
 
 > "A dedicação e o comprometimento de [Seu Nome] em cada projeto são realmente inspiradores." - [Nome do Supervisor](https://www.linkedin.com/in/supervisor)
 
