@@ -1,17 +1,5 @@
 ![Juan Coutinho](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá+meu+nome+é+Juan++Coutinho+Dos+Santos+;Tenho+18+anos+;Seja+bem+vindo!+😉)
 
-<p align="center">
-  <a href="https://github.com/reddevx?tab=followers">
-    <img alt="Followers" src="https://img.shields.io/github/followers/reddevx?style=for-the-badge" />
-  </a>
-  <a href="mailto:juan.devx@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>"Indo álem."</strong>
-</p>
 
 ---
 
